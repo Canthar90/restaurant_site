@@ -1,6 +1,26 @@
+
+.navbar{
+    color: #2C3333;
+}
+
+.navbar-text{
+    font-family: 'Dancing Script', cursive;
+}
+
 .heroes-img{
     
     height: 800px;
+}
+
+.company-name{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 900;
+    font-size: 5rem;
+    color: white;
+}
+
+.initial-description{
+    color: white;
 }
 
 #hero{
@@ -9,4 +29,28 @@
     height: 100vh;
     background-size: cover;
     position: relative;
+}
+
+.features{
+    background-color: #2E4F4F;
+}
+
+.features-title{
+    color: white;
+}
+
+
+.about-us{
+    padding: 6% 17%;
+    background-color: #CBE4DE;
+}
+
+.footer{
+    background-color: #2E4F4F;
+    padding: 6% 17%;
+    text-align: center;
+}
+
+.footer-element{
+    padding: 0 10%;
 }
